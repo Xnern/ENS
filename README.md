@@ -1,2 +1,2 @@
-# ENS
-Setup and integrate ens into my dApp
+# Junior course
+All my junior courses from LearnWeb3DAO
