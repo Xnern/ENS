@@ -12,6 +12,8 @@ All my junior courses from LearnWeb3DAO
   - Hardhat
   - IPFS
   - Polygon network
+  - GraphQL
+  - Axios
 
   ## Author
 
