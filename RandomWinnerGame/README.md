@@ -12,6 +12,7 @@
   - Hardhat
   - GraphQL
   - Web3modal/ethers.js
+  - Axios
 
   ## Author
 
